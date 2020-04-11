@@ -1,0 +1,16 @@
+.photo {
+    height: '200px' ;
+    max-Width:'10vw';
+    border: 10px solid transparent;
+    padding: 1px;
+    border-image: 50 round;
+  }
+  .Name{
+    color:rosybrown;
+    font-weight:bold;
+
+  }
+  .Adresse{
+    color: black;
+    font-weight:bold;
+  }
